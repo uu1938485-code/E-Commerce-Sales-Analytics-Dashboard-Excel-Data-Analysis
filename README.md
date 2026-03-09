@@ -31,9 +31,11 @@ Pivot Charts  Pie, Bar, 3D visualizations
 Slicers Interactive filtering (Month, Channel, Category)
 Conditional Formatting Highlighting trends
 Data Validation  Data integrity
+
 **Data Set Description:**
 
 The dataset contains e-commerce transaction records from multiple Indian online retail platforms with the following key fields:
+
 •	Order ID — Unique transaction identifier
 
 •	Channel — Sales platform (Amazon, Flipkart, Meesho, Myntra, Ajio, Nalli, Others)
@@ -55,12 +57,17 @@ The dataset contains e-commerce transaction records from multiple Indian online 
 **Key Business Insights:**
 
 •	Delhi is the top-performing state with 3.20M in sales, followed by Uttar Pradesh at 2.79M
+
 •	Flipkart is a dominant sales channel representing 100% of orders in the filtered view
+
 •	Women contribute 81% of sales in the Saree category, confirming a strong female customer base
+
 •	Senior Women are the largest order demographic (~50% of age-gender segment)
+
 •	92% of orders are successfully delivered with only an 8% refund rate
+
 •	June is a high-revenue month for Flipkart with approximately 16.7M in sales
 
-**About me:**
 
+**About me:**
 I am a Data Analyst skilled in Microsoft Excel, specializing in building interactive e-commerce dashboards. I transform raw sales data into clear visual insights — covering channel performance, customer demographics, geographic trends, and order analytics — to support smarter business decisions.
