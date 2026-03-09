@@ -1,2 +1,2 @@
-# E-Commerce-Sales-Analytics-Dashboard-Excel-Data-Analysis-Project
+E-Commerce Sales Analytics Dashboard | Excel Data Analysis
 This project presents an interactive E-Commerce Sales Analytics Dashboard developed using Microsoft Excel to analyze sales performance, customer behavior, and order trends across different channels and categories.The dashboard provides slicers visualizations users to explore sales data by month, sales channel, product category, gender, and region.
