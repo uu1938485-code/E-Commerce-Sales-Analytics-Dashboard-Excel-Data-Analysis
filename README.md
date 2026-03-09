@@ -14,8 +14,6 @@ across cities, products, categories, and sales representatives.
 |  Sales by Category | Pie chart: Electronics, Furniture & Stationery |
 |  Month-wise Sales | Monthly revenue trend across the full year |
 
----
-
 ## Features
 
 -  Interactive **Month Slicer** to filter all charts dynamically
@@ -29,8 +27,6 @@ across cities, products, categories, and sales representatives.
 - **Data Analysis** — Aggregation, Filtering, Trend Analysis
 - **Data Visualization** — Line, Bar, Column & Pie Charts
 
----
-
 ##  Dashboard Preview
 
 ![Dashboard 1](1.GIF)
@@ -40,5 +36,5 @@ across cities, products, categories, and sales representatives.
 
 ##  About Me
 
-**Umair** — Aspiring Data Analyst passionate about turning raw data 
+**Umair** Aspiring Data Analyst passionate about turning raw data 
 into meaningful business insights using Excel, Pivot Tables & Dashboards.
