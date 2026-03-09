@@ -9,7 +9,7 @@ This bar chart compares the Sum of Amount (Sales Revenue in INR) against the Cou
 ![image alt]( https://github.com/uu1938485-code/E-Commerce-Sales-Analytics-Dashboard-Excel-Data-Analysis/blob/0aa463348f36d534e6ab95f0f877bca6e40e6b39/1.GIF)
 
 **2. Orders: Channels Distribution**
-
+![image alt]( https://github.com/uu1938485-code/E-Commerce-Sales-Analytics-Dashboard-Excel-Data-Analysis/blob/396898e398637abb151b8539d654b4b19fc9c8fc/4.GIF).
 This pie chart visualizes the distribution of orders across different sales channels. In the filtered view, 100% of orders originate from Flipkart, demonstrating how the dashboard can be filtered per channel. When all channels are active, this chart provides a comparative breakdown of order volume share among Ajio, Amazon, Flipkart, Meesho, Myntra, Nalli, and Others. It helps business owners quickly identify which platform drives the most orders.
 
 
