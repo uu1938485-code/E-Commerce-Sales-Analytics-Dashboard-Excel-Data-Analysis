@@ -16,12 +16,12 @@ This pie chart visualizes the distribution of orders across different sales chan
 **3. Sales: Men vs Women & Total Order Status (Saree Category**)
 
    This dual-panel view shows two pie charts filtered by the 'Saree' category. The left chart (Sales: Man vs Women) reveals that women account for 81% of sales while men account for 19%, highlighting the strong female customer base for this category. The right chart (Total Status) shows the order fulfillment breakdown — 92% Delivered and 8% refunded. 
-![image alt]( https://github.com/uu1938485-code/E-Commerce-Sales-Analytics-Dashboard-Excel-Data-Analysis/blob/396898e398637abb151b8539d654b4b19fc9c8fc/3.GIF).
+![image alt]( https://github.com/uu1938485-code/E-Commerce-Sales-Analytics-Dashboard-Excel-Data-Analysis/blob/396898e398637abb151b8539d654b4b19fc9c8fc/2.GIF)
 
 **4. Sales: Top 10 States & Orders: Age vs Gender**
 
 The left panel ranks the top 10 Indian states by sales revenue. Delhi leads with 3.20M, followed by Uttar Pradesh (2.79M), Madhya Pradesh (2.16M), and Maharashtra (2.15M). This helps identify key geographic markets for targeted campaigns and inventory planning. The right panel (Orders: Age vs Gender) uses a 3D clustered bar chart to compare order counts across three age groups — Adult, Senior, and Teenager segmented by gender(Men vs Women).
-
+![image alt]( https://github.com/uu1938485-code/E-Commerce-Sales-Analytics-Dashboard-Excel-Data-Analysis/blob/396898e398637abb151b8539d654b4b19fc9c8fc/3.GIF).
 
 **Tools & Technologies Used:**
 
