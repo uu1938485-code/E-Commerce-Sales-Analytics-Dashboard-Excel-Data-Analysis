@@ -3,7 +3,7 @@
 
 This project presents an interactive E-Commerce Sales Analytics Dashboard developed using Microsoft Excel to analyze sales performance, customer behavior, and order trends across different channels and categories.The dashboard provides slicers visualizations users to explore sales data by month, sales channel, product category, gender, and region.
 
-**1. Sales vs Orders — Monthly Trend (Flipkart, June)**
+**1. Sales vs Orders Monthly Trend (Flipkart, June)**
 
 This bar chart compares the Sum of Amount (Sales Revenue in INR) against the Count of Order IDs for a selected month and channel. The screenshot shows Flipkart's performance in June, with approximately 16.7M in sales revenue. The Month slicer (Jan–Dec) and Channel slicer (Ajio, Amazon, Flipkart, Meesho, Myntra, Nalli, Others) allow users to dynamically filter the data for any combination, making it ideal for monthly performance reviews and channel benchmarking.
 ![image alt]( https://github.com/uu1938485-code/E-Commerce-Sales-Analytics-Dashboard-Excel-Data-Analysis/blob/0aa463348f36d534e6ab95f0f877bca6e40e6b39/1.GIF)
@@ -26,10 +26,15 @@ The left panel ranks the top 10 Indian states by sales revenue. Delhi leads with
 **Tools & Technologies Used:**
 
 Microsoft Excel Main BI platform
+
 Pivot Tables  Data aggregation
+
 Pivot Charts  Pie, Bar, 3D visualizations
+
 Slicers Interactive filtering (Month, Channel, Category)
+
 Conditional Formatting Highlighting trends
+
 Data Validation  Data integrity
 
 **Data Set Description:**
@@ -70,4 +75,4 @@ The dataset contains e-commerce transaction records from multiple Indian online 
 
 
 **About me:**
-I am a Data Analyst skilled in Microsoft Excel, specializing in building interactive e-commerce dashboards. I transform raw sales data into clear visual insights — covering channel performance, customer demographics, geographic trends, and order analytics — to support smarter business decisions.
+I am a Data Analyst skilled in Microsoft Excel, specializing in building interactive e-commerce dashboards. I transform raw sales data into clear visual insights covering channel performance, customer demographics, geographic trends, and order analytics to support smarter business decisions.
